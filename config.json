@@ -47,9 +47,11 @@
         "US30": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
         "US30USD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
         "SPX500": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
+        "SPX": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
         "US500": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
         "US100": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
         "NAS100": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
+        "NAS": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 10	},
         "UK100": 	{	"baseCurrency": "GBP",     "pointValue": 0.0001,     "overridePV": 10	},
         "GER30": 	{	"baseCurrency": "EUR",     "pointValue": 0.0001,     "overridePV": 10	},
         "FRA40": 	{	"baseCurrency": "EUR",     "pointValue": 0.0001 ,    "overridePV": 10   },
@@ -64,6 +66,7 @@
         "USOil": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
         "UKOil": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
         "XAUUSD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
+        "GOLD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
         "XAGUSD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	} 
       }
 }
