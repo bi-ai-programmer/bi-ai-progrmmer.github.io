@@ -64,6 +64,6 @@
         "USOil": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
         "UKOil": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
         "XAUUSD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	},
-        "XAGUSD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	} ,
+        "XAGUSD": 	{	"baseCurrency": "USD",     "pointValue": 0.0001,     "overridePV": 0.1	} 
       }
 }
