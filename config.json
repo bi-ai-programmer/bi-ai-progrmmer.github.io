@@ -63,7 +63,7 @@
        "CHN50": {"baseCurrency": "CNY",  "pointValue": 0.0001,  "overridePV": 10,  "IsPremium": 0},
        "INDIA50": {"baseCurrency": "INR",  "pointValue": 0.0001,  "overridePV": 10,  "IsPremium": 0},
        "US2000": {"baseCurrency": "USD",  "pointValue": 0.0001,  "overridePV": 10,  "IsPremium": 0},
-       "USOIl": {"baseCurrency": "USD",  "pointValue": 0.0001,  "overridePV": 0.1,  "IsPremium": 1},
+       "USOIL": {"baseCurrency": "USD",  "pointValue": 0.0001,  "overridePV": 0.1,  "IsPremium": 1},
        "UKOIL": {"baseCurrency": "USD",  "pointValue": 0.0001,  "overridePV": 0.1,  "IsPremium": 0},
        "XAUUSD": {"baseCurrency": "USD",  "pointValue": 0.0001,  "overridePV": 0.1,  "IsPremium": 1},
        "GOLD": {"baseCurrency": "USD",  "pointValue": 0.0001,  "overridePV": 0.1,  "IsPremium": 0},
