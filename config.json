@@ -63,8 +63,8 @@
             "CHN50": {"baseCurrency": "CNY", "pointValue": 1, "overridePV": 10, "IsPremium": 0, "ContractSize": 1},
             "INDIA50": {"baseCurrency": "INR", "pointValue": 1, "overridePV": 10, "IsPremium": 0, "ContractSize": 1},
             "US2000": {"baseCurrency": "USD", "pointValue": 1, "overridePV": 10, "IsPremium": 0, "ContractSize": 1},
-            "USOIL": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 1},
-            "UKOIL": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1},
+            "USOIL": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 1000},
+            "UKOIL": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1000},
             "XAUUSD": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100},
             "GOLD": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1},
             "XAGUSD": {"baseCurrency": "USD", "pointValue": 0.01, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1000},
@@ -106,6 +106,8 @@
             "COPPER": {"baseCurrency": "USD", "pointValue": 0.01, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1},
             "NATURALGAS": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 1},
             "PLATINUM": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100},
-            "PALLADIUM": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100}
+            "PALLADIUM": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100},
+            "ETHUSDT":{ "baseCurrency": "ETH", "pointValue": 0.01,"exchangeRate": 1500,"ContractSize": 1, "IsPremium": 1}, 
+            "BTC":{"baseCurrency": "BTC","pointValue": 0.01,"exchangeRate": 25000,"ContractSize": 1, "IsPremium": 1}
 }
       }
