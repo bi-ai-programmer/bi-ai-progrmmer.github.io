@@ -108,6 +108,9 @@
             "PLATINUM": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100},
             "PALLADIUM": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100},
             "ETHUSDT":{ "baseCurrency": "ETH", "pointValue": 0.01,"exchangeRate": 1500,"ContractSize": 1, "IsPremium": 1}, 
-            "BTC":{"baseCurrency": "BTC","pointValue": 0.01,"exchangeRate": 25000,"ContractSize": 1, "IsPremium": 1}
+            "BTC":{"baseCurrency": "BTC","pointValue": 0.01,"exchangeRate": 25000,"ContractSize": 1, "IsPremium": 1},
+            "GER40": {"baseCurrency": "EUR","pointValue": 1, "IsPremium": 1, "ContractSize": 1 },
+            "BANKNIFTY": {"baseCurrency": "INR","pointValue": 1,"IsPremium": 1,"ContractSize": 1 }
+
 }
       }
