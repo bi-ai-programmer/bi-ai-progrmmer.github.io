@@ -1,8 +1,8 @@
 { 
  "tpairs": {  
-       "EURUSD": {"baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
-       "GBPUSD": {"baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
-       "USDJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 0, "ContractSize": 100000},
+       "EURUSD": {"baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 1, "ContractSize": 100000},
+       "GBPUSD": {"baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 1, "ContractSize": 100000},
+       "USDJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 1, "ContractSize": 100000},
        "USDCHF": {"baseCurrency": "CHF", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "AUDUSD": {"baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "USDCAD": {"baseCurrency": "CAD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
@@ -22,21 +22,21 @@
        "USDINR": {"baseCurrency": "INR", "pointValue": 0.01, "IsPremium": 0, "ContractSize": 100000},
        "USDRUB": {"baseCurrency": "RUB", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "EURGBP": {"baseCurrency": "GBP", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
-       "EURJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 0, "ContractSize": 100000},
+       "EURJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 1, "ContractSize": 100000},
        "EURCHF": {"baseCurrency": "CHF", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "EURCAD": {"baseCurrency": "CAD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "EURAUD": {"baseCurrency": "AUD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "EURSEK": {"baseCurrency": "SEK", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "EURNOK": {"baseCurrency": "NOK", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "EURDKK": {"baseCurrency": "DKK", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
-       "GBPJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 0, "ContractSize": 100000},
+       "GBPJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 1, "ContractSize": 100000},
        "GBPCHF": {"baseCurrency": "CHF", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "GBPAUD": {"baseCurrency": "AUD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
-       "GBPCAD": {"baseCurrency": "CAD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
+       "GBPCAD": {"baseCurrency": "CAD", "pointValue": 0.0001, "IsPremium": 1, "ContractSize": 100000},
        "GBPNZD": {"baseCurrency": "NZD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "GBPSEK": {"baseCurrency": "SEK", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "GBPNOK": {"baseCurrency": "NOK", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
-       "AUDJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 0, "ContractSize": 100000},
+       "AUDJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 1, "ContractSize": 100000},
        "AUDCAD": {"baseCurrency": "CAD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "AUDCHF": {"baseCurrency": "CHF", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
        "AUDNZD": {"baseCurrency": "NZD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
@@ -47,7 +47,7 @@
        "US30": {"baseCurrency": "USD",  "pointValue": 1,  "overridePV": 10,  "IsPremium": 1, "ContractSize": 1},
        "US30USD": {"baseCurrency": "USD",  "pointValue": 1,  "overridePV": 10,  "IsPremium": 1, "ContractSize": 1},
        "SPX500": {"baseCurrency": "USD",  "pointValue": 1,  "overridePV": 10,  "IsPremium": 1, "ContractSize": 1},
-       "SPX": {"baseCurrency": "USD",  "pointValue": 1,  "overridePV": 10,  "IsPremium": 0, "ContractSize": 1},
+       "SPX": {"baseCurrency": "USD",  "pointValue": 1,  "overridePV": 10,  "IsPremium": 1, "ContractSize": 1},
        "US500": {"baseCurrency": "USD",  "pointValue": 1,  "overridePV": 10,  "IsPremium": 1, "ContractSize": 1},
        "US100": {"baseCurrency": "USD", "pointValue": 1, "overridePV": 10, "IsPremium": 1, "ContractSize": 1},
             "NAS100": {"baseCurrency": "USD", "pointValue": 1, "overridePV": 10, "IsPremium": 1, "ContractSize": 1},
@@ -66,8 +66,8 @@
             "USOIL": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 1000},
             "UKOIL": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1000},
             "XAUUSD": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 100},
-            "GOLD": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1},
-            "XAGUSD": {"baseCurrency": "USD", "pointValue": 0.01, "overridePV": 0.1, "IsPremium": 0, "ContractSize": 1000},
+            "GOLD": {"baseCurrency": "USD", "pointValue": 0.1, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 1},
+            "XAGUSD": {"baseCurrency": "USD", "pointValue": 0.01, "overridePV": 0.1, "IsPremium": 1, "ContractSize": 1000},
             "DXY": {"baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 1, "ContractSize": 1},
             "CHFJPY": {"baseCurrency": "JPY", "pointValue": 0.01, "IsPremium": 0, "ContractSize": 100000},
             "NZDCAD": {"baseCurrency": "CAD", "pointValue": 0.0001, "IsPremium": 0, "ContractSize": 100000},
@@ -154,7 +154,46 @@
         "pointValue": 0.01,
         "IsPremium": 1,
         "ContractSize": 1
-      }
+      },
+  "WLDUSDT": {
+  "baseCurrency": "WLD",
+  "quoteCurrency": "USDT",
+  "pointValue": 0.0001,
+  "IsPremium": 1,
+  "ContractSize": 1
+},
+  "ES1!": {
+  "baseCurrency": "USD",
+  "pointValue": 1,
+  "IsPremium": 1,
+  "ContractSize": 50
+},
+  "BTCUSDT.P": {
+  "baseCurrency": "BTC",
+  "quoteCurrency": "USDT",
+  "pointValue": 1,
+  "IsPremium": 1,
+  "ContractSize": 1
+},
+  "WTICOUSD": {
+  "baseCurrency": "USD",
+  "pointValue": 1,
+  "IsPremium": 1,
+  "ContractSize": 1000
+},
+  "XTIUSD": {
+  "baseCurrency": "USD",
+  "pointValue": 1,
+  "IsPremium": 1,
+  "ContractSize": 1000
+},
+  "FETUSDT": {
+  "baseCurrency": "FET",
+  "quoteCurrency": "USDT",
+  "pointValue": 0.0001,
+  "IsPremium": 0,
+  "ContractSize": 1
+}
   
 
 }
