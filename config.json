@@ -136,7 +136,25 @@
             "pointValue": 0.01, 
             "IsPremium": 0,
             "ContractSize": 1
-          }
+          },
+            "ALGOUSDT": {
+            "baseCurrency": "USD",
+            "pointValue": 0.0001,
+            "IsPremium": 1,
+            "ContractSize": 1
+          },
+          "NQH2025": {
+          "baseCurrency": "USD",
+          "pointValue": 20,
+          "IsPremium": 1,
+          "ContractSize": 20
+        },
+        "AMD": {
+        "baseCurrency": "USD",
+        "pointValue": 0.01,
+        "IsPremium": 1,
+        "ContractSize": 1
+      }
   
 
 }
