@@ -193,14 +193,7 @@
   "pointValue": 0.0001,
   "IsPremium": 0,
   "ContractSize": 1
-},
-  "XAUJPY": {
-    "baseCurrency": "XAU",
-    "quoteCurrency": "JPY",
-    "pointValue": 0.01,
-    "IsPremium": 1,
-    "ContractSize": 100
-  }
+}
   
 
 }
