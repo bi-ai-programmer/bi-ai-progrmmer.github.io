@@ -132,7 +132,7 @@
             "ContractSize": 1
           },
             "SOM": {
-            "baseCurrency": "AUD",
+            "baseCurrency": "EUR",
             "pointValue": 0.01,
             "IsPremium": 0,
             "ContractSize": 1
