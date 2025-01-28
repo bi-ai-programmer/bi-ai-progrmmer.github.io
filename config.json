@@ -112,7 +112,31 @@
             "BTC1!xx":{"baseCurrency": "BTC","pointValue": 0.01,"exchangeRate": 25000,"ContractSize": 1, "IsPremium": 1},
             "GER40": {"baseCurrency": "EUR","pointValue": 1, "IsPremium": 1, "ContractSize": 1 },
             "BANKNIFTY": {"baseCurrency": "INR","pointValue": 1,"IsPremium": 1,"ContractSize": 1 },
-            "AMD": { "baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 1, "ContractSize": 100000 }
+            "AMD": { "baseCurrency": "USD", "pointValue": 0.0001, "IsPremium": 1, "ContractSize": 100000 },
+            "SOMEC": {
+            "baseCurrency": "EUR",
+            "pointValue": 0.01,
+            "IsPremium": 0,
+            "ContractSize": 1
+          },
+            "SOMERO": {
+            "baseCurrency": "GBP",
+            "pointValue": 0.01,
+            "IsPremium": 0,
+            "ContractSize": 1
+          },
+            "SOMNOMED": {
+            "baseCurrency": "AUD",
+            "pointValue": 0.01,
+            "IsPremium": 0,
+            "ContractSize": 1
+          },
+            "SOM": {
+            "baseCurrency": "AUD",
+            "pointValue": 0.01,
+            "IsPremium": 0,
+            "ContractSize": 1
+          }
   
 
 }
