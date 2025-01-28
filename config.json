@@ -133,7 +133,7 @@
           },
             "SOM": {
             "baseCurrency": "EUR",
-            "pointValue": 0.01,
+            "pointValue": 0.01, 
             "IsPremium": 0,
             "ContractSize": 1
           }
