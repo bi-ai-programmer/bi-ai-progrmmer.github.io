@@ -200,7 +200,13 @@
     "pointValue": 0.01,
     "IsPremium": 1,
     "ContractSize": 100
-  }
+  },
+  "SPX500USD": {
+  "baseCurrency": "USD",
+  "pointValue": 1,
+  "IsPremium": 1,
+  "ContractSize": 1
+}
 
 }
       }
