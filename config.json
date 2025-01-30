@@ -264,6 +264,19 @@
     "pointValue": 0.0001,
     "IsPremium": 0,
     "ContractSize": 1
+  },
+  "USOIL.F": {
+    "baseCurrency": "USD",
+    "pointValue": 0.01,
+    "IsPremium": 1,
+    "ContractSize": 1000
+  },
+  "XAUAUD": {
+    "baseCurrency": "AUD",
+    "quoteCurrency": "AUD",
+    "pointValue": 0.01,
+    "IsPremium": 1,
+    "ContractSize": 100
   }
 
 }
