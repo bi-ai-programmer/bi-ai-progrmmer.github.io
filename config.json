@@ -206,6 +206,21 @@
   "pointValue": 1,
   "IsPremium": 1,
   "ContractSize": 1
+},
+  "SUIUSDT": {
+  "baseCurrency": "USD",
+  "quoteCurrency": "SUI",
+  "pointValue": 0.0001,
+  "IsPremium": 0,
+  "ContractSize": 1
+},
+  ,
+  "SUI": {
+  "baseCurrency": "USD",
+  "quoteCurrency": "SUI",
+  "pointValue": 0.0001,
+  "IsPremium": 1,
+  "ContractSize": 1
 }
 
 }
