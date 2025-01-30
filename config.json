@@ -227,7 +227,44 @@
   "pointValue": 0.00005,
   "IsPremium": 1,
   "ContractSize": 125000
-}
+},
+  "MES1!": {
+    "baseCurrency": "USD",
+    "pointValue": 5,
+    "IsPremium": 1,
+    "ContractSize": 5
+  },
+  "MGCG2025": {
+    "baseCurrency": "USD",
+    "pointValue": 1,
+    "IsPremium": 1,
+    "ContractSize": 10
+  },
+  "IBEX35": {
+  "baseCurrency": "EUR",
+  "pointValue": 10,
+  "IsPremium": 1,
+  "ContractSize": 10
+},
+  "WIN1!": {
+    "baseCurrency": "BRL",
+    "pointValue": 0.2,
+    "IsPremium": 1,
+    "ContractSize": 0.2
+  },
+  "GC1!": {
+    "baseCurrency": "USD",
+    "pointValue": 0.1,
+    "IsPremium": 1,
+    "ContractSize": 100
+  },
+  "WIFUSDT": {
+    "baseCurrency": "USD",
+    "quoteCurrency": "USDT",
+    "pointValue": 0.0001,
+    "IsPremium": 0,
+    "ContractSize": 1
+  }
 
 }
       }
