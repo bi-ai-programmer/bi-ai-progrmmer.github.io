@@ -281,7 +281,7 @@
   "DE40": {
     "baseCurrency": "EUR",
     "pointValue": 1,
-    "IsPremium": 1,
+    "IsPremium": 0,
     "ContractSize": 25
   }
 
