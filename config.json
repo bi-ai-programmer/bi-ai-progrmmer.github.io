@@ -290,6 +290,13 @@
     "pointValue": 0.0001,
     "IsPremium": 1,
     "ContractSize": 1
+  },
+  "SOLUSD": {
+    "baseCurrency": "USD",
+    "quoteCurrency": "USD",
+    "pointValue": 0.01,
+    "IsPremium": 1,
+    "ContractSize": 1
   }
 
 }
