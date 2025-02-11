@@ -368,6 +368,12 @@
     "pointValue": 0.01,
     "IsPremium": 1,
     "ContractSize": 1
+  },
+  "NVDA": {
+    "baseCurrency": "USD",
+    "pointValue": 0.01,
+    "IsPremium": 1,
+    "ContractSize": 1
   }
 
 }
