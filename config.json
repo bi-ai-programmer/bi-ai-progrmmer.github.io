@@ -362,6 +362,12 @@
     "pointValue": 5,
     "IsPremium": 1,
     "ContractSize": 50
+  },
+  "TSLA": {
+    "baseCurrency": "USD",
+    "pointValue": 0.01,
+    "IsPremium": 1,
+    "ContractSize": 1
   }
 
 }
