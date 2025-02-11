@@ -372,7 +372,7 @@
   "NVDA": {
     "baseCurrency": "USD",
     "pointValue": 0.01,
-    "IsPremium": 1,
+    "IsPremium": 0,
     "ContractSize": 1
   }
 
