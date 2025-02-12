@@ -374,6 +374,13 @@
     "pointValue": 0.01,
     "IsPremium": 0,
     "ContractSize": 1
+  },
+  "HBARUSDT": {
+    "baseCurrency": "USD",
+    "quoteCurrency": "USDT",
+    "pointValue": 0.0001,
+    "IsPremium": 0,
+    "ContractSize": 1
   }
 
 }
